@@ -4,6 +4,6 @@
 
 สำหรับรายวิฃา [OOP](https://Natthaphong66.github.io)
 
-![download banner](./banner.jpg)
+![download banner](./balo.jpg)
 
 ณัฐพงษ์ ดีบุตร
