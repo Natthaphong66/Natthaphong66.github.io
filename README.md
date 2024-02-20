@@ -17,7 +17,7 @@ git commit
 ## คำสั่งพื้นฐาน python
 ```
 python
-d = {'frame': 4.00, 'bancha': 2.00}
+d = {'boss': 4.00, 'natthaphong': 2.00}
 for k,v in d.items():
    print(k,v)
 ```
