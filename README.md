@@ -2,7 +2,7 @@
 
 # สุมดบันทึก
 
-สำหรับรายวิฃา [OOP](https://Natthaphong66.github.io)
+สำหรับรายวิชา [OOP](https://Natthaphong66.github.io)
 
 ![download banner](./balo.jpg)
 
