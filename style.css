@@ -3,14 +3,14 @@ body {
     font-family: 'Sarabun', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4; /* สีพื้นหลังเทาอ่อน */
+    background-color: #FFE797; /* สีพื้นหลังเทาอ่อน */
     color: #333;
 }
 
 /* 1. สไตล์ส่วนหัว (Header สีฟ้า) */
 .main-header {
     /* ไล่สีฟ้า-เขียวเทอร์ควอยซ์ เหมือนในรูป */
-    background: linear-gradient(90deg, #007bff, #00BFFF); 
+    background: linear-gradient(90deg, #FCB53B); 
     color: white;
     padding: 40px 20px;
     text-align: center;
